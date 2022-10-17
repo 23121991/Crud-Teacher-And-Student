@@ -6,7 +6,6 @@ import Button from 'react-bootstrap/Button';
 import { useNavigate,Link } from 'react-router-dom';
 import Liststudents from './Liststudent';
 import Dashboard from './Dashboard';
-//import 'bootstrap/dist/css/bootstrap.min.css';
 import FloatingLabel from 'react-bootstrap/FloatingLabel';
 
 function Createstudent() {
